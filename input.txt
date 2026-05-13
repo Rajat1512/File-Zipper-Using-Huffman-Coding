@@ -1,0 +1,3 @@
+Huffman coding is a lossless data compression algorithm.
+This project is built using Java and DSA concepts.
+File compression helps reduce storage space.
